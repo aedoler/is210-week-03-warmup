@@ -12,3 +12,7 @@
 """
 
 import task_12
+
+FRAC_DEC_EQUAL = False
+
+DEC_FLOAT_INEQUAL = True
