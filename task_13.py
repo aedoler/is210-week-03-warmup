@@ -13,6 +13,15 @@
 
 import task_12
 
+
+FRAC_DEC_EQUAL = str(task_12.DECVAL == task_12.FRACVAL)
+
+DEC_FLOAT_INEQUAL = str(task_12.DECVAL != task_12.FLOATVAL)
+
+print FRAC_DEC_EQUAL
+
+print DEC_FLOAT_INEQUAL
+
 FRAC_DEC_EQUAL = False
 
 DEC_FLOAT_INEQUAL = True
